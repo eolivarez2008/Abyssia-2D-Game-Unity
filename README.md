@@ -24,9 +24,11 @@ Le projet est pensé pour être facilement **modifiable et extensible** pour des
 
 Pour lancer le projet :  
 
-1. Ouvrir le dossier dans **Unity** (version compatible recommandée).  
+1. Ouvrir le dossier dans **Unity** (version unity 6.2 recommandée).  
 2. Ouvrir la scène principale `Menu`.  
-3. Appuyer sur **Play** pour tester le jeu.  
+3. Appuyer sur **Play** pour tester le jeu.
+
+---
 
 ## Auteur
 
