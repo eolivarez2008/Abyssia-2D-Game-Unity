@@ -39,11 +39,10 @@ Lycée Louis de Cormontaigne, Metz
 
 ## Licence
 
-Ce projet est sous licence **Apache 2.0**.  
+Ce projet est sous licence **MIT**.  
 Tu peux :  
 - utiliser les images et données librement,  
 - les modifier,  
 - les distribuer,  
 - même à usage commercial,  
-tant que tu respectes les conditions de la [licence Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
+tant que tu respectes les conditions de la [licence MIT](https://opensource.org/licenses/MIT).
